@@ -2739,7 +2739,7 @@ input, select, textarea {
 
 		body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 1;
+			opacity: 0;
 		}
 
 		@media screen and (max-width: 1280px) {
