@@ -1,0 +1,75 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    {
+      "provider": "twitter",
+      "text": "Did you checkout #DevRelCarousels by @yashovardhan? This might be the perfect resource for the beginners in #DevRel"
+    },
+    "linkedin",
+    {
+      "provider": "facebook",
+      "app_id": "367574904371354",
+      "quote": "Did you checkout DevRelCarousels? This might be the perfect resource for the beginners in Developer Relations"
+    },
+    {
+      "provider": "whatsapp",
+      "text": "Did you checkout DevRelCarousels? This might be the perfect resource for the beginners in Developer Relations https://carousels.devrel.page"
+    },
+    {
+      "provider": "system",
+      "text": "Did you checkout DevRelCarousels? This might be the perfect resource for the beginners in Developer Relations https://carousels.devrel.page"
+    }
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "DevRelCarousels"
+    },
+    {
+      "type": "small",
+      "title": "Checkout the DevRel Blog for more detailed explanations!",
+      "url": "https://medium.com/developerelations",
+      "image": "https://miro.medium.com/max/390/1*emiGsBgJu2KHWyjluhKXQw.png"
+
+    },
+    {
+      "type": "small",
+      "title": "Did you have a look at DevRel Scribbles?",
+      "url": "https://scribbles.devrel.page",
+      "image": "https://gblobscdn.gitbook.com/spaces%2F-MGLImtQm_x-rEH4_QQ-%2Favatar-1600458866891.png?alt=media"
+
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Meet the Author",
+          "url": "https://twitter.com/yashovardhan"
+        }
+      ]
+    },
+    {
+      "type": "landscape",
+      "title": "Checkout the detailed blog on Developer Evangelists 🚀 - Digging Deeper",
+      "url": "https://medium.com/developerelations/developer-advocates-devrelcarousels-3-49e2bb7b03c3",
+      "image": "../images/drc4.png",
+      "category": "Further Readings"
+    },
+    {
+      "type": "landscape",
+      "title": "Done? Let us move forward with the next carousel!",
+      "url": "../drc5",
+      "image": "../images/drc5.png",
+      "category": "Further Readings"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Looking to go back?",
+          "url": "../"
+        }
+      ]
+    }
+  ]
+}
