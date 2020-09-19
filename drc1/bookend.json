@@ -52,14 +52,14 @@
       "type": "landscape",
       "title": "Checkout the detailed blog on Developer Advocates 🥑 - Digging Deeper",
       "url": "https://medium.com/developerelations/developer-advocates-devrelcarousels-3-49e2bb7b03c3",
-      "image": "../images/drc3.png",
+      "image": "../images/drc3.jpg",
       "category": "Further Readings"
     },
     {
       "type": "landscape",
       "title": "Done? Let us move forward with the next carousel!",
       "url": "../drc2",
-      "image": "../images/drc2.png",
+      "image": "../images/drc2.jpg",
       "category": "Further Readings"
     },
     {
