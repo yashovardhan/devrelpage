@@ -2453,19 +2453,16 @@ input, select, textarea {
 		box-shadow: inset 0 0 0 2px #2f2e41;
 		color: #2f2e41 !important;
 		cursor: pointer;
-		display: inline-block;
+		display: block;
 		font-size: 0.8em;
 		font-weight: 900;
-		height: 3.5em;
+		min-height: 3.5em;
 		letter-spacing: 0.35em;
-		line-height: 3.45em;
 		overflow: hidden;
-		padding: 0 1.25em 0 1.6em;
+		padding: 1.25em;
 		text-align: center;
 		text-decoration: none;
-		text-overflow: ellipsis;
 		text-transform: uppercase;
-		white-space: nowrap;
 	}
 
 		input[type="submit"].icon:before,
