@@ -46,16 +46,16 @@
     },
     {
       "type": "landscape",
-      "title": "Checkout the detailed blog on Developer Marketers - Digging Deeper",
-      "url": "https://medium.com/developerelations/developer-marketers-devrel-carousels-6-b3f8bbed09d8",
-      "image": "../images/drc6.jpg",
+      "title": "Checkout the detailed blog on Developer Experience Specialists - Digging Deeper",
+      "url": "https://medium.com/developerelations/developer-experience-specialists-digging-deeper-series-87cc7bebaa23",
+      "image": "../images/drc8.jpg",
       "category": "Further Readings"
     },
     {
       "type": "landscape",
       "title": "Done? Let us move forward with the next carousel!",
       "url": "../drc1",
-      "image": "../images/drc7.jpg",
+      "image": "../images/drc1.jpg",
       "category": "Further Readings"
     },
     {
